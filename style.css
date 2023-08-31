@@ -1,0 +1,14 @@
+/*
+
+selector (element){ (alt-gr+7)
+egenskap1:värde1;
+egenskap2:värde2;
+}(alt-gr+8)
+...
+*/
+
+h1{
+    color: yellow;
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
